@@ -23,7 +23,7 @@ pre-commit install --hook-type commit-msg
 # Install this emoji-style tool
 sudo npm install -g git-cz --no-audit --verbose --registry=https://registry.npmmirror.com
 
-# Install rlite
+# Install rlite and development dependencies
 pip install -e ".[dev]"
 ```
 
@@ -34,7 +34,7 @@ pip install -e ".[dev]"
 
 Run `pre-commit` to automatically lint the code:
 
-```
+```bash
 pre-commit run --all-files
 ```
 
