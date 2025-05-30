@@ -70,4 +70,4 @@ To run the GRPO with LoRA training script:
 
 ## Expected Results & Logging
 
-Training progress, including loss, rewards, and other relevant metrics, will be logged to Weights & Biases if configured. You can monitor your experiments in real-time by navigating to your W&B project dashboard.
+Training progress, including loss, rewards, and other relevant metrics, will be logged to Weights & Biases if configured. You can monitor your experiments in real-time by navigating to your W&B project dashboard. We provide our reference log [here](https://api.wandb.ai/links/han-zhang-stepfun/t90o815k).

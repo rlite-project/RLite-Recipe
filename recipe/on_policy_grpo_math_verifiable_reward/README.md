@@ -48,7 +48,7 @@ The reward function uses symbolic normalization and equivalence checking to ensu
 
 ## Logging
 
-Experiments are tracked using [Weights & Biases](https://wandb.ai/). Set your project and run names in the `GrpoConfig` class. Our logs are available [here](https://wandb.ai/han-zhang-stepfun/on-policy-grpo-math-verifiable-reward/).
+Experiments are tracked using [Weights & Biases](https://wandb.ai/). Set your project and run names in the `GrpoConfig` class. Our logs are available [here](https://api.wandb.ai/links/han-zhang-stepfun/bcehg4y9).
 
 ## Citation
 

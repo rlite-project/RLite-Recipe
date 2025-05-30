@@ -11,4 +11,4 @@ python recipe/reproduce_orz/grpo_packing.py
 
 Using `4 x 8 x H100`, this recipe should run with a speed about 3min/iter.
 
-The logs are available [here](https://wandb.ai/han-zhang-stepfun/rlite-reproduce-orz).
+The logs are available [here](https://api.wandb.ai/links/han-zhang-stepfun/wshlverj).
